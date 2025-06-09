@@ -1,4 +1,4 @@
-# workshop
+# Meteo_App
 
 A new Flutter project.
 
